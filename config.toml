@@ -1,0 +1,72 @@
+## Basic Configuration
+
+baseurl = "http://henosisknot.com"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Andor Kesselman"
+title = "Andor Kesselman"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Andor Kesselman"
+intro = "Autodidact and Adventurer. <br> Researching Multi-Agent AI."
+description ="Be adventures. Be daring. Don’t get too comfortable. Because the day that you do is the day you lost your youth."
+authorimage = "headshot.jpg"
+dateformat = "October 9, 2017"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "andorsk"
+linkedin = "andorkesselman"
+email = "andor.main@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Andor Kesselman"
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "projects"
+    identifier = "projects"
+    weight = 300
+    url = "/projects/"
+[[menu.main]]
+    name = "gallery"
+    identifier = "gallery"
+    weight = 400
+    url = "/gallery/"
+[[menu.main]]
+    name = "CV"
+    identifier = "CV"
+    weight = 500
+    url = "https://s3.amazonaws.com/henosisknot-assets/cv.pdf"
