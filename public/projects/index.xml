@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Andor Kesselman</title>
+    <link>https://henosisknot.com/projects/index.xml</link>
+    <description>Recent content in Projects on Andor Kesselman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Oct 2017 09:40:14 -0700</lastBuildDate>
+    <atom:link href="https://henosisknot.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coming Soon!</title>
+      <link>https://henosisknot.com/projects/comingsoon/</link>
+      <pubDate>Tue, 10 Oct 2017 09:40:14 -0700</pubDate>
+      
+      <guid>https://henosisknot.com/projects/comingsoon/</guid>
+      <description>&lt;p&gt;Coming Soon!!!!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

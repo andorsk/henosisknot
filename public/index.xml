@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andor Kesselman</title>
+    <link>https://henosisknot.com/index.xml</link>
+    <description>Recent content on Andor Kesselman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 10 Oct 2017 09:52:14 -0700</lastBuildDate>
+    <atom:link href="https://henosisknot.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coming Soon!</title>
+      <link>https://henosisknot.com/blog/commingsoon/</link>
+      <pubDate>Tue, 10 Oct 2017 09:52:14 -0700</pubDate>
+      
+      <guid>https://henosisknot.com/blog/commingsoon/</guid>
+      <description>&lt;p&gt;Coming Soon!!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coming Soon!</title>
+      <link>https://henosisknot.com/research/commingsoon/</link>
+      <pubDate>Tue, 10 Oct 2017 09:52:14 -0700</pubDate>
+      
+      <guid>https://henosisknot.com/research/commingsoon/</guid>
+      <description>&lt;p&gt;Coming Soon!!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coming Soon!</title>
+      <link>https://henosisknot.com/projects/comingsoon/</link>
+      <pubDate>Tue, 10 Oct 2017 09:40:14 -0700</pubDate>
+      
+      <guid>https://henosisknot.com/projects/comingsoon/</guid>
+      <description>&lt;p&gt;Coming Soon!!!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Henosisknot</title>
+      <link>https://henosisknot.com/about/</link>
+      <pubDate>Sun, 09 Oct 2016 21:52:04 -0700</pubDate>
+      
+      <guid>https://henosisknot.com/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;what-is-henosisknot&#34;&gt;What is HenosisKnot?&lt;/h1&gt;
+
+&lt;p&gt;This website is termed from the combination of two different references, Henosis and Knot.  The Gordian Knot in Greek mythology is a reference to an extremely difficult problem.  &amp;ldquo;Henosis&amp;rdquo; is the greek word for &amp;ldquo;oneness&amp;rdquo; or &amp;ldquo;unity&amp;rdquo;. Henosisknot.com is a general homage to the persistence of solving the problem of challenges of finding agreement. We live in a world where finding common ground often seems impossible. I would like to chip away at the solution.&lt;/p&gt;
+
+&lt;p&gt;Welcome to Hensosiknot.com&lt;/p&gt;
+
+&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+
+&lt;p&gt;I quit a job that I liked.&lt;/p&gt;
+
+&lt;p&gt;I used to work for RetailNext, a startup in Silicon Valley revolutionizing the way that retailers analyze their shoppers. As my first real job out of college, in three years I pushed my way through two promotions, multiple raises, and even switched teams. By the end I was working on things like embedded deep learning on IoT device with a handful of PhD’s and managing a small international team. I thought that was pretty good for a young “punk”.&lt;/p&gt;
+
+&lt;p&gt;So why did I quit? I had a stable paycheck in a cool company, cool problems, an intelligent team that I could go to lunch with. A million thoughts swirled in my head. Was I ungrateful? Was I being a “millennial”? From a million vantage points it seemed crazy to leave all this behind.&lt;/p&gt;
+
+&lt;p&gt;Consider this though: I was also 25, had not written a single paper in my area of research, and hadn’t worked on any projects of my own. At 25, I realized I wanted to see the world and do research. I wanted to learn and build my own tech. Then I asked myself two questions: If I die tomorrow what am I more likely to regret? and Can I do this later?&lt;/p&gt;
+
+&lt;p&gt;As a young professional, I’ve been fortunate enough to listen to the envy of older colleagues over the youth they lost. Youth is a beautiful thing that we don’t get back. At 25, your life should be an adventure that gets you OUT of your comfort zone. At 25 if you aren’t pushing yourself and living on the edge and FAILING, then you aren’t taking advantage of the wonderful gift you’ll never get back.&lt;/p&gt;
+
+&lt;p&gt;Be adventures. Be daring. Don’t get too comfortable. Because the day that you do is the day you lost your youth.
+&lt;section id=&#34;menu-pane2&#34; class=&#34;row menu text-center&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt; &lt;img src=&#34;http://localhost:1313//img/logo.png&#34;  alt=&#34;home&#34; style=&#34;width:42px;height:42px;border:0;&#34;&gt;&lt;/a&gt;
+&lt;/section&gt;&lt;/p&gt;
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.9.1.min.js&#34;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+    jQuery(document).ready(function(){
+        console.log(&#34;ready&#34;)
+        jQuery(&#34;#menu-pane&#34;).hide()
+    });
+&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://henosisknot.com/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://henosisknot.com/gallery/</guid>
+      <description>&lt;html&gt;
+&lt;head&gt;
+	&lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=UTF-8&#34; /&gt;
+	&lt;title&gt;Gallery&lt;/title&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#34;{{.Site.BaseURL}}/js/unitegallery/js/jquery-11.0.min.js&#34;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-common-libraries.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-functions.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-thumbsgeneral.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-thumbsstrip.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-touchthumbs.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-panelsbase.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-strippanel.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-gridpanel.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-thumbsgrid.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-tiles.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-tiledesign.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-avia.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-slider.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-sliderassets.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-touchslider.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-zoomslider.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-video.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-gallery.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-lightbox.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-carousel.js&#39;&gt;&lt;/script&gt;
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/js/ug-api.js&#39;&gt;&lt;/script&gt;
+	&lt;link rel=&#34;stylesheet&#34; href=&#34;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css&#34; integrity=&#34;sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u&#34; crossorigin=&#34;anonymous&#34;&gt;
+	&lt;link rel=&#34;stylesheet&#34; href=&#34;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&#34;&gt;
+	&lt;link rel=&#39;stylesheet&#39; href=&#39;{{.Site.BaseURL}}/js/unitegallery/css/unite-gallery.css&#39; type=&#39;text/css&#39; /&gt;
+	
+	
+	&lt;script type=&#39;text/javascript&#39; src=&#39;{{.Site.BaseURL}}/js/unitegallery/themes/tiles/ug-theme-tiles.js&#39;&gt;&lt;/script&gt;
+	&lt;link rel=&#39;stylesheet&#39; 		  href=&#39;{{.Site.BaseURL}}/js/unitegallery/themes/default/ug-theme-default.css&#39; type=&#39;text/css&#39;&gt;
+	&lt;link rel=&#39;stylesheet&#39; href=&#39;{{.Site.BaseURL}}/css/main.css&#39; type=&#39;text/css&#39;&gt;
+	
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;section id=&#34;menu-pane&#34; class=&#34;row menu text-center&#34; style=&#34;padding: 2%&#34;&gt;
+  &lt;a href=&#34;{{.Site.BaseURL}}&#34;&gt; &lt;img src=&#34;{{.Site.BaseURL}}/img/logo.png&#34;  alt=&#34;home&#34; style=&#34;width:42px;height:42px;border:0;&#34;&gt;&lt;/a&gt;
+&lt;/section&gt;
+	&lt;header class=&#34;row text center&#34;&gt;
+		&lt;div class=&#34;container&#34;&gt;
+			&lt;h3&gt;&lt;a class=&#34;list-entry-link&#34; href=&#34;&#34;&gt;More Coming Soon&lt;/a&gt;&lt;/h3&gt;
+			&lt;div id=&#34;sj-sendoff&#34; class=&#34;gallery-ui&#34; style=&#34;display:none;&#34;&gt;
+				
+			&lt;/div&gt;
+			&lt;h3&gt;&lt;a class=&#34;list-entry-link&#34; href=&#34;&#34;&gt;RetailNext Sendoff!&lt;/a&gt;&lt;/h3&gt;
+			&lt;div id=&#34;thailand-gallery&#34; class=&#34;gallery-ui&#34; style=&#34;display:none;&#34;&gt;
+				&lt;img alt=&#34;Dinner at Bridget John&#39;s&#34;
+				src=&#34;https://s3.amazonaws.com/henosisknot-assets/images/sj/BJ_Dinner.jpg&#34;
+				data-image=&#34;https://s3.amazonaws.com/henosisknot-assets/images/sj/BJ_Dinner.jpg&#34;
+				data-description=&#34;Dinner at Bridget John&#39;s&#34;&gt;
+				&lt;img alt=&#34;Hanging out at Zuma Beach, Malibu&#34;
+				src=&#34;https://lh3.googleusercontent.com/AvOSKV6O3RBfyb29JrvWHjKFqt-qaLG8ERxMQOLggkfBuqFojTwWKqJcPOnR4fuWlS-5Yay2ZSIz8HlSmUXzLT5gpuo4HTaPD1A3GXBPpSMnJ18v3Yd7_zdR5VGVm2sNcYYLGt294_5e6dhCqssS9ohDor267ufrpmWdNXNXo8qVxRD9sd2hc4QC2pmVGsyeNcicJsiIUQE91YPUJQJzdTTmgfPJtBRWq8ZRUwZP3UHpgAjHdQWQz_Dk8dpgjjwDpPbFSObfqpz7fMwj2I6VFO6fudRDUKkLChvpI-gmPpG-wE_wodUkNt9OfAqqlEbo-CpFRvbyKkC_wqNoc5lmRlf_jA_J6V8zWXT5QXUYZnys6r-umu738GctbCg26Woq2riYf8eOzIii7wd0wfuOAzxZATjh59XE2X6w2wNbcIgXe3SpTEO08yIw84SHfMvJNT-UrPHKCkF3c5m-TShIVBNAk1V3il9mfEfraKC_XoZpx6nA2DQV1JYQwSEFWf1hIxH4Ellz2Uebn7sOxqrkjrvN9MC8KS1cOOygll34tdGBbQk3ZHkaeibCTJl8RKnFMG13AXED5woIorU0ogO0lev_etNO2dadcSgmq4l04oiAhsvrUIS8FL4-C5sykr6p5Xo5OPaewuaWiR7GyKBHFK6dd1QY4zYzwB8=w2240-h1260-no&#34;
+				data-image=&#34;https://lh3.googleusercontent.com/AvOSKV6O3RBfyb29JrvWHjKFqt-qaLG8ERxMQOLggkfBuqFojTwWKqJcPOnR4fuWlS-5Yay2ZSIz8HlSmUXzLT5gpuo4HTaPD1A3GXBPpSMnJ18v3Yd7_zdR5VGVm2sNcYYLGt294_5e6dhCqssS9ohDor267ufrpmWdNXNXo8qVxRD9sd2hc4QC2pmVGsyeNcicJsiIUQE91YPUJQJzdTTmgfPJtBRWq8ZRUwZP3UHpgAjHdQWQz_Dk8dpgjjwDpPbFSObfqpz7fMwj2I6VFO6fudRDUKkLChvpI-gmPpG-wE_wodUkNt9OfAqqlEbo-CpFRvbyKkC_wqNoc5lmRlf_jA_J6V8zWXT5QXUYZnys6r-umu738GctbCg26Woq2riYf8eOzIii7wd0wfuOAzxZATjh59XE2X6w2wNbcIgXe3SpTEO08yIw84SHfMvJNT-UrPHKCkF3c5m-TShIVBNAk1V3il9mfEfraKC_XoZpx6nA2DQV1JYQwSEFWf1hIxH4Ellz2Uebn7sOxqrkjrvN9MC8KS1cOOygll34tdGBbQk3ZHkaeibCTJl8RKnFMG13AXED5woIorU0ogO0lev_etNO2dadcSgmq4l04oiAhsvrUIS8FL4-C5sykr6p5Xo5OPaewuaWiR7GyKBHFK6dd1QY4zYzwB8=w2240-h1260-no&#34;
+				data-description=&#34;Hanging out at Zuma Beach, Malibu&#34;&gt;
+			&lt;/div&gt;
+		
+		&lt;/header&gt;
+	&lt;/div&gt;
+	
+	&lt;script type=&#34;text/javascript&#34;&gt;
+		jQuery(document).ready(function(){
+			// jQuery(&#34;#sj-sendoff&#34;).unitegallery();
+			jQuery(&#34;#thailand-gallery&#34;).unitegallery();
+		});
+		
+	&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

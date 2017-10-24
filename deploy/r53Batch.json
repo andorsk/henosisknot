@@ -1,0 +1,28 @@
+{
+    "Changes": [
+        {
+            "Action":"UPSERT",
+            "ResourceRecordSet": {
+                "AliasTarget": {
+                    "HostedZoneId": "Z2FDTNDATAQYW2", 
+                    "EvaluateTargetHealth": false, 
+                    "DNSName": "dm0k85bh3kd1t.cloudfront.net"
+                }, 
+                "Type": "A", 
+                "Name": "henosisknot.com."
+            }
+        },{
+            "Action":"UPSERT",
+            "ResourceRecordSet": {
+                "ResourceRecords": [
+                    {
+                        "Value": "dm0k85bh3kd1t.cloudfront.net"
+                    }
+                ],
+                "Type": "CNAME",
+                "Name": "www.henosisknot.com.",
+                "TTL": 300
+            }
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://henosisknot.com"
+baseurl = "https://henosisknot.com"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -15,22 +15,22 @@ title = "Andor Kesselman"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
+disqusShortname = "henosisknot-disqus" # Comment out to disable Disqus.
+googleAnalytics = "UA-108513647-1"
 enableRobotsTXT = true
 
 ## Site Settings
 [params]
 author = "Andor Kesselman"
 intro = "Autodidact and Adventurer. <br> Researching Multi-Agent AI."
-description ="Be adventures. Be daring. Don’t get too comfortable. Because the day that you do is the day you lost your youth."
+description ="Children and lunatics cut the Gordian knot which the poet spends his life patiently trying to untie."
 authorimage = "headshot.jpg"
 dateformat = "October 9, 2017"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Solving the challenging problem of unification"
+keywords = "minimalist,blog,goa,hugo,developer, henosisknot, henosis, unity, oneness, gordianknot, gordian, knot"
 
 ## Social Accounts
 [params.social]
@@ -66,7 +66,12 @@ hightlightjs = true
     weight = 400
     url = "/gallery/"
 [[menu.main]]
+    name = "research"
+    identifier = "research"
+    weight = 500
+    url = "/research/"
+[[menu.main]]
     name = "CV"
     identifier = "CV"
-    weight = 500
+    weight = 600
     url = "https://s3.amazonaws.com/henosisknot-assets/cv.pdf"
