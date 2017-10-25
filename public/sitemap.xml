@@ -12,17 +12,20 @@
   </url>
   
   <url>
-    <loc>https://henosisknot.com/projects/comingsoon/</loc>
-    <lastmod>2017-10-10T09:40:14-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://henosisknot.com/about/</loc>
     <lastmod>2016-10-09T21:52:04-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://henosisknot.com/gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/map/</loc>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/projects/</loc>
   </url>
   
   <url>
@@ -34,12 +37,6 @@
   <url>
     <loc>https://henosisknot.com/blog/</loc>
     <lastmod>2017-10-10T09:52:14-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://henosisknot.com/projects/</loc>
-    <lastmod>2017-10-10T09:40:14-07:00</lastmod>
     <priority>0</priority>
   </url>
   

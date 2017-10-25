@@ -21,4 +21,4 @@ aws s3 sync --profile ${PROFILE} --cache-control "max-age=2592000" --acl "public
 aws s3 sync --profile ${PROFILE} --cache-control "max-age=31536000" --acl "public-read" --sse "AES256"  static/downloads/ s3://${BUCKET_NAME}/downloads/
 
 # Invalidate landing page so everything sees new post - warning, first 1K/mo free, then 1/2 cent each
-aws cloudfront create-invalidation --profile ${PROFILE} --distribution-id ${DISTRIBUTION_ID} --paths /content/*
+aws cloudfront create-invalidation --profile ${PROFILE} --distribution-id ${DISTRIBUTION_ID} --paths /content/about.md /content/gallery.html 
