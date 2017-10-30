@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Andor Kesselman</title>
+    <link>https://henosisknot.com/categories/development/index.xml</link>
+    <description>Recent content in Development on Andor Kesselman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://henosisknot.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Project! -- Where in the World is Andor!</title>
+      <link>https://henosisknot.com/blog/andortracker/</link>
+      <pubDate>Wed, 25 Oct 2017 20:06:39 -0700</pubDate>
+      
+      <guid>https://henosisknot.com/blog/andortracker/</guid>
+      <description>&lt;p&gt;If you visit &lt;a href=&#34;https://henosisknot.com/projects&#34;&gt;https://henosisknot.com/projects&lt;/a&gt; you&amp;rsquo;ll see a number of projects currently displayed. If you click on them, most of them will lead you down to a &amp;ldquo;wag your finger&amp;rdquo; giphy, indicating that they currently aren&amp;rsquo;t live.&lt;/p&gt;
+
+&lt;p&gt;As a quick update: The first small project I will be working on is &lt;code&gt;Where in the World is Andor!&lt;/code&gt;. It&amp;rsquo;s a small little app that will send my location to the site, as well as tracks my previous locations. With this, you&amp;rsquo;ll get a realtime idea of my travels and be able to get automatic updates of my location.&lt;/p&gt;
+
+&lt;p&gt;For those android users, if you go to &lt;a href=&#34;https://www.google.com/maps/timeline&#34;&gt;https://www.google.com/maps/timeline&lt;/a&gt; you&amp;rsquo;ll be able to see a list of all the locations you&amp;rsquo;ve been to while having android. Unfortunately, google doesn&amp;rsquo;t expose an API that will allow me to share my timeline with you, but it does expose an API to get location data from my phone, so I&amp;rsquo;ve decided to make my own &amp;ldquo;timeline&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I think there are a couple cool things with this idea:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If I die you&amp;rsquo;ll know where I died.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ll be able to give you automatic updates over my location which gives you a reason to check in to the site!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I&amp;rsquo;ll be updating this blog with details of my implementation after I&amp;rsquo;ve built it and sharing the source code over github.&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;br /&gt;
+Andor&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,7 +10,7 @@ layoutdir = "layouts"
 publishdir = "public"
 
 author = "Andor Kesselman"
-title = "Andor Kesselman"
+title = "Henosisknot.com"
 
 theme = "hugo-goa"
 
@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Andor Kesselman"
 intro = "Autodidact and Adventurer. <br> Researching Multi-Agent AI."
-description ="Children and lunatics cut the Gordian knot which the poet spends his life patiently trying to untie."
+description ="Children and lunatics cut the Gordian knot which the poet spends his life patiently trying to untie. <br>  Current location: San Jose, CA"
 authorimage = "headshot.jpg"
 dateformat = "October 9, 2017"
 
@@ -37,10 +37,11 @@ keywords = "minimalist,blog,goa,hugo,developer, henosisknot, henosis, unity, one
 github = "andorsk"
 linkedin = "andorkesselman"
 email = "andor.main@gmail.com"
+twitter = "twitter/henosisknot.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. Andor Kesselman"
+copyright = "2017. Andor Kesselman"
 poweredby = true
 hightlightjs = true
 

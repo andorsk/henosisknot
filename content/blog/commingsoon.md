@@ -2,7 +2,7 @@
 title = "Coming Soon!"
 slug = ""
 comments = false
-draft = false
+draft = true
 showcomments = true
 categories = []
 tags = []

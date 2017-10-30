@@ -6,16 +6,225 @@
     <description>Recent content in Blogs on Andor Kesselman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Oct 2017 09:52:14 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2017 20:06:39 -0700</lastBuildDate>
     <atom:link href="https://henosisknot.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Coming Soon!</title>
-      <link>https://henosisknot.com/blog/commingsoon/</link>
-      <pubDate>Tue, 10 Oct 2017 09:52:14 -0700</pubDate>
+      <title>First Project! -- Where in the World is Andor!</title>
+      <link>https://henosisknot.com/blog/andortracker/</link>
+      <pubDate>Wed, 25 Oct 2017 20:06:39 -0700</pubDate>
       
-      <guid>https://henosisknot.com/blog/commingsoon/</guid>
-      <description>&lt;p&gt;Coming Soon!!!&lt;/p&gt;
+      <guid>https://henosisknot.com/blog/andortracker/</guid>
+      <description>&lt;p&gt;If you visit &lt;a href=&#34;https://henosisknot.com/projects&#34;&gt;https://henosisknot.com/projects&lt;/a&gt; you&amp;rsquo;ll see a number of projects currently displayed. If you click on them, most of them will lead you down to a &amp;ldquo;wag your finger&amp;rdquo; giphy, indicating that they currently aren&amp;rsquo;t live.&lt;/p&gt;
+
+&lt;p&gt;As a quick update: The first small project I will be working on is &lt;code&gt;Where in the World is Andor!&lt;/code&gt;. It&amp;rsquo;s a small little app that will send my location to the site, as well as tracks my previous locations. With this, you&amp;rsquo;ll get a realtime idea of my travels and be able to get automatic updates of my location.&lt;/p&gt;
+
+&lt;p&gt;For those android users, if you go to &lt;a href=&#34;https://www.google.com/maps/timeline&#34;&gt;https://www.google.com/maps/timeline&lt;/a&gt; you&amp;rsquo;ll be able to see a list of all the locations you&amp;rsquo;ve been to while having android. Unfortunately, google doesn&amp;rsquo;t expose an API that will allow me to share my timeline with you, but it does expose an API to get location data from my phone, so I&amp;rsquo;ve decided to make my own &amp;ldquo;timeline&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I think there are a couple cool things with this idea:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If I die you&amp;rsquo;ll know where I died.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ll be able to give you automatic updates over my location which gives you a reason to check in to the site!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I&amp;rsquo;ll be updating this blog with details of my implementation after I&amp;rsquo;ve built it and sharing the source code over github.&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;br /&gt;
+Andor&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planning your Trip!</title>
+      <link>https://henosisknot.com/blog/planning/</link>
+      <pubDate>Wed, 25 Oct 2017 14:23:21 -0700</pubDate>
+      
+      <guid>https://henosisknot.com/blog/planning/</guid>
+      <description>
+
+&lt;style&gt;
+
+.callout {
+    float: right;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;quot;It&#39;s a dangerous business, Frodo, going out your door. You step onto the road, and if you don&#39;t keep your feet, there&#39;s no knowing where you might be swept off to.&amp;quot;&lt;/code&gt; &lt;em&gt;- A wiser wizard than Dumbledore.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+So you want to go on a trip ey? Awesome. It might help you make the most of your experience by thinking about a few pointers. Here&amp;rsquo;s some suggestions for you to make the most of your experience.&lt;/p&gt;
+
+&lt;h1 id=&#34;how-to-plan-for-a-trip&#34;&gt;How to plan for a Trip?&lt;/h1&gt;
+
+&lt;p&gt;Everyone has different styles of trip planning. Now, the saying &amp;ldquo;Different strokes for different folks&amp;rdquo; is totally true when traveling, but there are a few things that you can do to make your traveling experience better. This is particularly important when you&amp;rsquo;re dealing with travel over multiple months.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Talk to people that have been to the country&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Hands down the most useful thing you can do is connect with someone that has already gone through the pains of figuring out how to travel to the country(s) you want to visit. Make notes, jot them down, and don&amp;rsquo;t lose them. They can make or break your travel.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Here are three starting questions to ask:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;What type of challenges getting in/out of the country did you have?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Can you recommend anything unique to do that I wouldn&amp;rsquo;t find online?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Did you meet anyone at the country? Can you connect me?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don&amp;rsquo;t be afraid of asking this last one. It&amp;rsquo;s invaluable to have connections abroad. If it ends up being a useful connection make sure to thank them afterward and pay it forward however you can.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Search country specific requirements.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make sure to your country is safe and you take care of vaccinations/visa issues.
+
+&lt;ul&gt;
+&lt;li&gt;Some countries may not be safe or may require vaccinations. Take a look at &lt;a href=&#34;https://travel.state.gov/content/passports/en/country.html&#34;&gt;travel.state.gov&lt;/a&gt; and figure out if your country has any specific requirements that you need to pay attention to.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Typically if you have an American passport you deal with less visa issues than most countries. There are a few popular countries to keep your eye on including Vietnam, Myanmar, and China.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plan your expenses using &lt;a href=&#34;https://docs.google.com/spreadsheets/d/13ekbF3Kt7KPULaM_-DwyaLGUcacifcdJwUHH3GrzSVw/edit?usp=sharing&#34;&gt;this spreadsheet template&lt;/a&gt;.&lt;/strong&gt; Just copy it over. This is useful for a few reasons.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It gives you a birds eye view over what type of traveler you are.
+
+&lt;ul&gt;
+&lt;li&gt;Some people need to travel in luxury. Other&amp;rsquo;s can travel with barely anything. Knowing what your basic requirements are for having a good time is important.&lt;/li&gt;
+&lt;li&gt;Cut out unneccessary expenses.&lt;/li&gt;
+&lt;li&gt;For what you &amp;ldquo;absolutely&amp;rdquo; need, turns out you can live pretty thrifty. On a budget, many countries you can live comfortably for 20~30 dollars a day (many cheaper) if you&amp;rsquo;re willing to make a few non-essential sacrafices. Personally, I recommend going budget friendly to get a good experience. Not just because you save money, but you&amp;rsquo;re way more likely to get a local and authentic experience.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Build a general itinerary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You may be a &lt;em&gt;&amp;ldquo;go where the wind takes you&amp;rdquo;&lt;/em&gt; personality, but having a general itineary/plan is good anchor to make sure you are making the most of your journey. You don&amp;rsquo;t need to follow all of it (it most likely won&amp;rsquo;t even be possible), but it&amp;rsquo;s a good idea to know &lt;em&gt;where, what, and when&lt;/em&gt; you will be generally doing things so you make the most of your trip.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Be prepared to &lt;code&gt;IGNORE&lt;/code&gt; your itinerary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;So you have a plan. There&amp;rsquo;s a good chance things won&amp;rsquo;t go as plan and &lt;em&gt;that&amp;rsquo;s OK&lt;/em&gt;. Don&amp;rsquo;t freak out. Pivoting on your journey is part of the fun of the adventure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://i.giphy.com/media/13JJkdlu3rAgU0/200.gif&#34;&gt;  &lt;figcaption&gt;Monk definitely would miss out on some experiences.&lt;/figcaption&gt;
+&lt;/center&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Make sure you Batman status equipped&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Batman never goes without his utility belt. So shouldn&amp;rsquo;t you.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Following the above steps, make sure you have the proper luggage with you. Having a good bagpack and proper clothes can make or break a trip. I recommend checking out this &lt;a href=&#34;https://carryonguy.com/best-carry-on-backpack/&#34;&gt;link&lt;/a&gt; for finding a backpack that fits your travels. Generally, a few things to keep in mind:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lighter is better&lt;/li&gt;
+&lt;li&gt;DON&amp;rsquo;T fill your bag to the brink before traveling. You will most certainly want to fill it with local goods once you&amp;rsquo;re on the road.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Create Independent Safety Redundencies&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;On your travels, something valuable may get stolen or lost (i.e your bag, wallet, or passport). Try to make sure that if you lose one thing you don&amp;rsquo;t lose EVERYTHING. That would be a real bummer. Here&amp;rsquo;s a couple tricks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Have multiple cards for travel. Keep one in your wallet and one in your bag. That way if something happens to your bag at least you have access to your card in your wallet or vis-versa. Do &lt;code&gt;NOT&lt;/code&gt; keep both of them together if possible.
+
+&lt;ul&gt;
+&lt;li&gt;For my travels I created a new account with Bank of America to have a second debit card and also applied for a new credit card. Now I will have 4 cards (stored in my wallet and my bag) for redundancy.&lt;/li&gt;
+&lt;li&gt;Take a picture of your passport and make sure it&amp;rsquo;s safe. You can revert to this in case of an emergency.&lt;/li&gt;
+&lt;li&gt;If you LOSE everything, you can either head to the embassy or try to work out something with Western Union (I&amp;rsquo;m not going to put the specifics on this page but try never to get there)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Basic Travel CheckList&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Visa OK&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Vaccinations&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Politically Safe&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Expenses Forecast&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Insurance Acquired&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Batman Prepared&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;General Itinerary&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Connected with someone that has traveled there&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Initial travel and lodgings booked&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Stay tuned for a future post where I talk about how to travel on a budget and some travel tricks I&amp;rsquo;ve learned on the way.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://henosisknot.com/blog/intro/</link>
+      <pubDate>Tue, 10 Oct 2017 09:05:50 -0700</pubDate>
+      
+      <guid>https://henosisknot.com/blog/intro/</guid>
+      <description>&lt;p&gt;I quit a job that I liked.&lt;/p&gt;
+
+&lt;p&gt;I used to work for RetailNext, a startup in Silicon Valley revolutionizing the way that retailers analyze their shoppers. As my first real job out of college, in three years I pushed my way through two promotions, multiple raises, and even switched teams. By the end I was working on things like embedded deep learning on IoT device with a handful of PhD’s and managing a small international team. I thought that was pretty good for a young “punk”.&lt;/p&gt;
+
+&lt;p&gt;So why did I quit? I had a stable paycheck in a cool company, cool problems, an intelligent team that I could go to lunch with. A million thoughts swirled in my head. Was I ungrateful? Was I being a “millennial”? From a million vantage points it seemed crazy to leave all this behind.&lt;/p&gt;
+
+&lt;p&gt;At 25, I realized I wanted to see the world and do research. I wanted to learn and build my own tech. Then I asked myself two questions: If I die tomorrow what am I more likely to regret? and Can I do this later?&lt;/p&gt;
+
+&lt;p&gt;As a young professional, I’ve been fortunate enough to listen to the envy of older colleagues over the youth they lost. Youth is a beautiful thing that we don’t get back. At 25, your life should be an adventure that gets you OUT of your comfort zone. At 25 if you aren’t pushing yourself and living on the edge and FAILING, then you aren’t taking advantage of the wonderful gift you’ll never get back.&lt;/p&gt;
+
+&lt;p&gt;Be adventures. Be daring. Don’t get too comfortable. Because the day that you do is the day you lost your youth.&lt;/p&gt;
 </description>
     </item>
     

@@ -2,13 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://henosisknot.com/blog/commingsoon/</loc>
-    <lastmod>2017-10-10T09:52:14-07:00</lastmod>
+    <loc>https://henosisknot.com/blog/andortracker/</loc>
+    <lastmod>2017-10-25T20:06:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/blog/planning/</loc>
+    <lastmod>2017-10-25T14:23:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://henosisknot.com/research/commingsoon/</loc>
     <lastmod>2017-10-10T09:52:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/blog/intro/</loc>
+    <lastmod>2017-10-10T09:05:50-07:00</lastmod>
   </url>
   
   <url>
@@ -30,19 +40,77 @@
   
   <url>
     <loc>https://henosisknot.com/</loc>
-    <lastmod>2017-10-10T09:52:14-07:00</lastmod>
+    <lastmod>2017-10-25T20:06:39-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://henosisknot.com/blog/</loc>
-    <lastmod>2017-10-10T09:52:14-07:00</lastmod>
+    <lastmod>2017-10-25T20:06:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/categories/development/</loc>
+    <lastmod>2017-10-25T20:06:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/categories/ideas/</loc>
+    <lastmod>2017-10-25T20:06:39-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/tags/intro/</loc>
+    <lastmod>2017-10-10T09:05:50-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/tags/life/</loc>
+    <lastmod>2017-10-10T09:05:50-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/tags/monologue/</loc>
+    <lastmod>2017-10-10T09:05:50-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://henosisknot.com/research/</loc>
     <lastmod>2017-10-10T09:52:14-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/categories/tips/</loc>
+    <lastmod>2017-10-25T14:23:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/tags/travel/</loc>
+    <lastmod>2017-10-10T09:05:50-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://henosisknot.com/categories/travel/</loc>
+    <lastmod>2017-10-25T14:23:21-07:00</lastmod>
     <priority>0</priority>
   </url>
   
